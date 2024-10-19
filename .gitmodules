@@ -1,0 +1,3 @@
+[submodule "CMS_Shared"]
+	path = CMS_Shared
+	url = git@github.com:xiongrencai388/layui-admin-1.git
